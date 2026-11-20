@@ -1,4 +1,3 @@
-
 class Person {
     constructor(name) {
         this.name = name;
@@ -16,6 +15,6 @@ class Teacher extends Person {
     }
 }
 
-const teacher1 = new Teacher("Nandani", "Maths");
+const teacher1 = new Teacher("Harshit Goyal", "Maths");
 
 console.log(teacher1.greet());

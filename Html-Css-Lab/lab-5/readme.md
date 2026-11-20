@@ -9,7 +9,7 @@ To link two HTML pages together and add an image with alternative text.
 The `<a>` tag is used to create hyperlinks in HTML.
 
 Example:
-`<a href="nandaniresume.html">resume</a>`
+`<a href="harshitresume.html">resume</a>`
 
 ### 2. href Attribute
 The href attribute specifies the destination of a link.

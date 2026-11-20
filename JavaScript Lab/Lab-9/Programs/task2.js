@@ -1,4 +1,3 @@
-
 function validateForm(name) {
     let errors = [];
 
@@ -9,5 +8,5 @@ function validateForm(name) {
     return errors;
 }
 
-console.log(validateForm("Nandani"));
+console.log(validateForm("Harshit Goyal"));
 console.log(validateForm(""));
